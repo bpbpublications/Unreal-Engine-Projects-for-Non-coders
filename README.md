@@ -1,2 +1,2 @@
-# Unreal Engine Projects for Non-Coders
-Unreal Engine Projects for Non-Coders, by BPB Publications
+# Unreal Engine Projects for Non-coders
+Unreal Engine Projects for Non-coders, by BPB Publications
