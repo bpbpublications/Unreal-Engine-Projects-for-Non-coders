@@ -1,1 +1,3 @@
-This is the repository for [Unreal Engine Projects for Non-coders](https://bpbonline.com/products/unreal-engine-projects-for-non-coders?variant=44649370812616), published by BPB Publications. The code bundles of this book are available here: https://rebrand.ly/c1m9l39
+This is the repository for [Unreal Engine Projects for Non-coders](https://bpbonline.com/products/unreal-engine-projects-for-non-coders?variant=44649370812616), published by BPB Publications. 
+
+The code bundles of this book are available here: https://rebrand.ly/c1m9l39
